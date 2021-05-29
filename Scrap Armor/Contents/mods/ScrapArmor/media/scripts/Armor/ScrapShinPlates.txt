@@ -1,0 +1,100 @@
+module Base
+{		
+
+	
+	item ScrapShinPlateR
+	{
+	Type = Clothing,
+	DisplayName = Right Scrap Greaves,
+	ClothingItem = ScrapShinPlateR,
+	BodyLocation = ShinPlateRight,
+	BloodLocation = Trousers,
+	Icon = ScrapShinPlates,
+	ScratchDefense = 45,
+    BiteDefense = 40,
+    Weight = 0.3,
+    Insulation = 0,
+    WindResistance = 0,
+	Tooltip = "Protects your Shin",
+	}
+	
+	item ScrapShinPlateL
+	{
+	Type = Clothing,
+	DisplayName = Left Scrap Greaves,
+	ClothingItem = ScrapShinPlateL,
+	BodyLocation = ShinPlateLeft,
+	BloodLocation = Trousers,
+	Icon = ScrapShinPlates,
+	ScratchDefense = 45,
+    BiteDefense = 40,
+    Weight = 0.3,
+    Insulation = 0,
+    WindResistance = 0,
+	Tooltip = "Protects your Shin",
+	}
+	
+	item ScrapShinPlateStuddedR
+	{
+	Type = Clothing,
+	DisplayName = Right Scrap Greaves Studded,
+	ClothingItem = ScrapShinPlateStuddedR,
+	BodyLocation = ShinPlateRight,
+	BloodLocation = Trousers,
+	Icon = ScrapShinPlatesStudded,
+	ScratchDefense = 65,
+    BiteDefense = 50,
+    Weight = 0.3,
+    Insulation = 0,
+    WindResistance = 0,
+	Tooltip = "Protects your Shin",
+	}
+	
+	item ScrapShinPlateStuddedL
+	{
+	Type = Clothing,
+	DisplayName = Left Scrap Greaves Studded,
+	ClothingItem = ScrapShinPlateStuddedL,
+	BodyLocation = ShinPlateLeft,
+	BloodLocation = Trousers,
+	Icon = ScrapShinPlatesStudded,
+	ScratchDefense = 65,
+    BiteDefense = 50,
+    Weight = 0.3,
+    Insulation = 0,
+    WindResistance = 0,
+	Tooltip = "Protects your Shin",
+	}
+	item ScrapShinPlate2R
+	{
+	Type = Clothing,
+	DisplayName = Right Reinforced Greaves,
+	ClothingItem = ScrapShinPlate2R,
+	BodyLocation = ShinPlateRight,
+	BloodLocation = Trousers,
+	Icon = ScrapShinPlates2,
+	ScratchDefense = 55,
+    BiteDefense = 50,
+    Weight = 0.3,
+    Insulation = 0,
+    WindResistance = 0,
+	Tooltip = "Protects your Shin",
+	}
+	
+	item ScrapShinPlate2L
+	{
+	Type = Clothing,
+	DisplayName = Left Reinforced Greaves,
+	ClothingItem = ScrapShinPlate2L,
+	BodyLocation = ShinPlateLeft,
+	BloodLocation = Trousers,
+	Icon = ScrapShinPlates2,
+	ScratchDefense = 55,
+    BiteDefense = 50,
+    Weight = 0.3,
+    Insulation = 0,
+    WindResistance = 0,
+	Tooltip = "Protects your Shin",
+	}
+	
+}

@@ -1,0 +1,16 @@
+Recipes_PTBR = {
+    Recipe_Close_Grimoire= "Fechar grimorio",
+    Recipe_Open_Grimoire= "Abrir grimorio",
+    Recipe_Summon_Rogue_Sword= "Conjurar espada de ladino",
+    Recipe_Summon_Witchy_Staff= "Conjurar cajado abruxado",
+    Recipe_Summon_TKnight_Sword= "Conjurar espada de cavaleiro",
+    Recipe_Summon_Cleric_Mace= "Conjurar maca de clerigo",
+    Recipe_Open_Box_of_13.2_Ammo= "Abrir caixa de municao de 13.2",
+    Recipe_Place_13.2_Ammo_in_Box= "Guardar municao de 13.2 numa caixa",
+    Recipe_Open_Box_of_.500_Ammo= "Abrir caixa de municao de .500",
+    Recipe_Place_.500_Ammo_in_Box= "Guardar municao de .500 numa caixa",
+    Recipe_Detach_Clip_of_40MM_Rounds= "Destacar cartucho de 40MM",
+    Recipe_Place_40MM_Rounds_in_Clip= "Guardar municao de 40MM num cartucho",
+    Recipe_Take_Gunpowder= "Retirar polvora",
+
+}

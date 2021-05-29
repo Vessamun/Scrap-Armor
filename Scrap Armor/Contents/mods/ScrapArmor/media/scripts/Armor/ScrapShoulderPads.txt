@@ -1,0 +1,163 @@
+module Base
+{		
+    item ScrapShoulderPadL
+	{
+	    Type = Clothing,
+		DisplayName = Left Scrap Shoulder Pad,
+		ClothingItem = ScrapShoulderPadL,
+		BodyLocation = UpperArmLeft,
+		Icon = ScrapShoulderPads,
+		CanHaveHoles = True,
+		BloodLocation = UpperArms,
+		BiteDefense = 35,
+		ScratchDefense = 35,
+		Insulation = 0,
+		WaterResistance = 0,
+        Weight = 0.3,
+		ConditionLowerChanceOneIn = 15,
+        ConditionMax = 15,
+        RemoveOnBroken = false,
+		Tooltip = "Protects your Shoulder",
+    }
+	
+	item ScrapShoulderPadR
+	{
+	    Type = Clothing,
+		DisplayName = Right Scrap Shoulder Pad,
+		ClothingItem = ScrapShoulderPadR,
+		BodyLocation = UpperArmRight,
+		Icon = ScrapShoulderPads,
+		CanHaveHoles = True,
+		BloodLocation = UpperArms,
+		BiteDefense = 35,
+		ScratchDefense = 35,
+		Insulation = 0,
+		WaterResistance = 0,
+        Weight = 0.3,
+		ConditionLowerChanceOneIn = 15,
+        ConditionMax = 15,
+        RemoveOnBroken = false,
+		Tooltip = "Protects your Shoulder",
+    }
+	
+	item ScrapShoulderPadSawL
+	{
+	    Type = Clothing,
+		DisplayName = Left Scrap Shoulder Pad with Sawblade,
+		ClothingItem = ScrapShoulderPadSawL,
+		BodyLocation = UpperArmLeft,
+		Icon = ScrapShoulderPadsSaw,
+		CanHaveHoles = True,
+		BloodLocation = UpperArms,
+		BiteDefense = 25,
+		ScratchDefense = 25,
+		Insulation = 0,
+		WaterResistance = 0,
+        Weight = 0.3,
+		ConditionLowerChanceOneIn = 15,
+        ConditionMax = 15,
+        RemoveOnBroken = false,
+		Tooltip = "Protects your Shoulder",
+    }
+	
+	item ScrapShoulderPadSawR
+	{
+	    Type = Clothing,
+		DisplayName = Right Scrap Shoulder Pad with Sawblade,
+		ClothingItem = ScrapShoulderPadSawR,
+		BodyLocation = UpperArmRight,
+		Icon = ScrapShoulderPadsSaw,
+		CanHaveHoles = True,
+		BloodLocation = UpperArms,
+		BiteDefense = 25,
+		ScratchDefense = 25,
+		Insulation = 0,
+		WaterResistance = 0,
+        Weight = 0.3,
+		ConditionLowerChanceOneIn = 15,
+        ConditionMax = 15,
+        RemoveOnBroken = false,
+		Tooltip = "Protects your Shoulder",
+    }
+	
+	item ScrapShoulderPadBoltsL
+	{
+	    Type = Clothing,
+		DisplayName = Left Scrap Shoulder Pad with Bolts,
+		ClothingItem = ScrapShoulderPadBoltsL,
+		BodyLocation = UpperArmLeft,
+		Icon = ScrapShoulderPadsBolts,
+		CanHaveHoles = True,
+		BloodLocation = UpperArms,
+		BiteDefense = 45,
+		ScratchDefense = 45,
+		Insulation = 0,
+		WaterResistance = 0,
+        Weight = 0.3,
+		ConditionLowerChanceOneIn = 15,
+        ConditionMax = 15,
+        RemoveOnBroken = false,
+		Tooltip = "Protects your Shoulder",
+    }
+	
+	item ScrapShoulderPadBoltsR
+	{
+	    Type = Clothing,
+		DisplayName = Right Scrap Shoulder Pad with Bolts,
+		ClothingItem = ScrapShoulderPadBoltsR,
+		BodyLocation = UpperArmRight,
+		Icon = ScrapShoulderPadsBolts,
+		CanHaveHoles = True,
+		BloodLocation = UpperArms,
+		BiteDefense = 45,
+		ScratchDefense = 45,
+		Insulation = 0,
+		WaterResistance = 0,
+        Weight = 0.3,
+		ConditionLowerChanceOneIn = 15,
+        ConditionMax = 15,
+        RemoveOnBroken = false,
+		Tooltip = "Protects your Shoulder",
+    }
+	
+	item ScrapShoulderPadSignL
+	{
+	    Type = Clothing,
+		DisplayName = Left Scrap Shoulder Pad with Sign,
+		ClothingItem = ScrapShoulderPadSignL,
+		BodyLocation = UpperArmLeft,
+		Icon = ScrapShoulderPadsSign,
+		CanHaveHoles = True,
+		BloodLocation = UpperArms,
+		BiteDefense = 35,
+		ScratchDefense = 35,
+		Insulation = 0,
+		WaterResistance = 0,
+        Weight = 0.3,
+		ConditionLowerChanceOneIn = 15,
+        ConditionMax = 15,
+        RemoveOnBroken = false,
+		Tooltip = "Protects your Shoulder",
+    }
+	
+	item ScrapShoulderPadSignR
+	{
+	    Type = Clothing,
+		DisplayName = Right Scrap Shoulder Pad with Sign,
+		ClothingItem = ScrapShoulderPadSignR,
+		BodyLocation = UpperArmRight,
+		Icon = ScrapShoulderPadsSign,
+		CanHaveHoles = True,
+		BloodLocation = UpperArms,
+		BiteDefense = 35,
+		ScratchDefense = 35,
+		Insulation = 0,
+		WaterResistance = 0,
+        Weight = 0.3,
+		ConditionLowerChanceOneIn = 15,
+        ConditionMax = 15,
+        RemoveOnBroken = false,
+		Tooltip = "Protects your Shoulder",
+    }
+	
+}

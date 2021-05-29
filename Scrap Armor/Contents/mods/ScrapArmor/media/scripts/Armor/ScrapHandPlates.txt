@@ -1,0 +1,99 @@
+module Base
+{		
+	item ScrapHandPlate2R
+	{
+	Type = Clothing,
+	DisplayName = Right Scrap Hand Plate,
+	ClothingItem = ScrapHandPlate2R,
+	BodyLocation = HandPlateRight,
+	BloodLocation = Hands,
+	Icon = ScrapHandPlates2,
+	ScratchDefense = 65,
+    BiteDefense = 50,
+    Weight = 0.3,
+    Insulation = 0,
+    WindResistance = 0,
+	Tooltip    =    "Protects your hand",
+	}
+	
+	item ScrapHandPlate2L
+	{
+	Type = Clothing,
+	DisplayName = Left Scrap Hand Plate,
+	ClothingItem = ScrapHandPlate2L,
+	BodyLocation = HandPlateLeft,
+	BloodLocation = Hands,
+	Icon = ScrapHandPlates2,
+	ScratchDefense = 65,
+    BiteDefense = 50,
+    Weight = 0.3,
+    Insulation = 0,
+    WindResistance = 0,
+	Tooltip    =    "Protects your hand",
+	}
+	
+	item ScrapHandPlateR
+	{
+	Type = Clothing,
+	DisplayName = Right Reinforced Hand Plate,
+	ClothingItem = ScrapHandPlateR,
+	BodyLocation = HandPlateRight,
+	BloodLocation = Hands,
+	Icon = ScrapHandPlates,
+	ScratchDefense = 65,
+    BiteDefense = 50,
+    Weight = 0.3,
+    Insulation = 0,
+    WindResistance = 0,
+	Tooltip    =    "Protects your hand",
+	}
+	
+	item ScrapHandPlateL
+	{
+	Type = Clothing,
+	DisplayName = Left Reinforced Hand Plate,
+	ClothingItem = ScrapHandPlateL,
+	BodyLocation = HandPlateLeft,
+	BloodLocation = Hands,
+	Icon = ScrapHandPlates,
+	ScratchDefense = 65,
+    BiteDefense = 50,
+    Weight = 0.3,
+    Insulation = 0,
+    WindResistance = 0,
+	Tooltip    =    "Protects your hand",
+	}
+	
+	item ScrapHandPlateStuddedR
+	{
+	Type = Clothing,
+	DisplayName = Right Scrap Hand Plate Studded,
+	ClothingItem = ScrapHandPlateStuddedR,
+	BodyLocation = HandPlateRight,
+	BloodLocation = Hands,
+	Icon = ScrapHandPlatesStudded,
+	ScratchDefense = 65,
+    BiteDefense = 50,
+    Weight = 0.3,
+    Insulation = 0,
+    WindResistance = 0,
+	Tooltip    =    "Protects your hand",
+	}
+	
+	item ScrapHandPlateStuddedL
+	{
+	Type = Clothing,
+	DisplayName = Left Scrap Hand Plate Studded,
+	ClothingItem = ScrapHandPlateStuddedL,
+	BodyLocation = HandPlateLeft,
+	BloodLocation = Hands,
+	Icon = ScrapHandPlatesStudded,
+	ScratchDefense = 65,
+    BiteDefense = 50,
+    Weight = 0.3,
+    Insulation = 0,
+    WindResistance = 0,
+	Tooltip    =    "Protects your hand",
+	}
+	
+}

@@ -1,0 +1,155 @@
+module Base
+{	
+
+
+
+    item Hat_ScrapKettleHelmet
+	{
+		Type = Clothing,
+		DisplayName = Scrap Kettle Helmet,
+		ClothingItem = Hat_ScrapKettleHelmet,
+		BodyLocation = Hat,
+		Icon = Hat_ScrapKettleHelmet,
+		CanHaveHoles = false,
+		BloodLocation = Head,
+		BiteDefense = 60,
+		ScratchDefense = 60,
+		ChanceToFall = 20,
+		Insulation = 0,
+		WaterResistance = 0.40,
+        Weight = 1.5,
+		Tooltip 		= "Can be worn over the Welding Mask",
+    }
+	
+	item Hat_ScrapHelmet
+	{
+		Type = Clothing,
+		DisplayName = Scrap Helmet,
+		ClothingItem = Hat_ScrapHelmet,
+		BodyLocation = FullHat,
+		IconsForTexture = Hat_ScrapHelmet;Hat_ScrapHelmet2,
+		CanHaveHoles = false,
+		BloodLocation = FullHelmet,
+		ClothingItemExtra = Hat_ScrapHelmetopen,
+        ClothingItemExtraOption = OpenHelmet,
+		BiteDefense = 100,
+		ScratchDefense = 100,
+		ChanceToFall = 10,
+		Insulation = 0,
+		WaterResistance = 0.40,
+        Weight = 1.5,
+		Tooltip = "Protects your Head",
+    }
+	
+	item Hat_ScrapHelmetopen
+	{
+		Type = Clothing,
+		DisplayName = ScrapHelmet (open),
+		ClothingItem = Hat_ScrapHelmetopen,
+		BodyLocation = Hat,
+		IconsForTexture = Hat_ScrapHelmet;Hat_ScrapHelmet2,
+		CanHaveHoles = false,
+		BloodLocation = Head,
+		ClothingItemExtra = Hat_ScrapHelmet,
+        ClothingItemExtraOption = CloseHelmet,
+		BiteDefense = 100,
+		ScratchDefense = 100,
+		ChanceToFall = 15,
+		Insulation = 0,
+		WaterResistance = 0.40,
+        Weight = 1.5,
+		Tooltip = "Protects your Head",
+    }
+	
+	item Hat_MotorcycleHelmet2
+	{
+		Type = Clothing,
+		DisplayName = Motorcycle Helmet 2,
+		ClothingItem = Hat_MotorcycleHelmet2,
+		BodyLocation = FullHat,
+		Icon = Hat_MotorcycleHelmet2,
+		CanHaveHoles = false,
+		BloodLocation = FullHelmet,
+		ClothingItemExtra = Hat_MotorcycleHelmet2open,
+        ClothingItemExtraOption = OpenHelmet,
+		BiteDefense = 100,
+		ScratchDefense = 100,
+		ChanceToFall = 20,
+		Insulation = 0,
+		WaterResistance = 0.40,
+        Weight = 1.5,
+		Tooltip = "Protects your Head",
+    }
+	
+	item Hat_WelderMask2
+	{
+		Type = Clothing,
+		DisplayName = Scrap Cat Welding Mask,
+		ClothingItem = Hat_WelderMask2,
+		BodyLocation = MaskFull,
+		Icon = Hat_WelderMask2,
+		CanHaveHoles = false,
+		BloodLocation = Head,
+		BiteDefense = 100,
+		ScratchDefense = 100,
+		ChanceToFall = 20,
+		Insulation = 0,
+		WaterResistance = 0.40,
+        Weight = 1.5,
+		Tooltip = "Protects your Head",
+    }
+	
+	item Hat_MotorcycleHelmet2open
+	{
+		Type = Clothing,
+		DisplayName = Motorcycle Helmet 2 (open),
+		ClothingItem = Hat_MotorcycleHelmet2open,
+		BodyLocation = FullHat,
+		Icon = Hat_MotorcycleHelmet2open,
+		CanHaveHoles = false,
+		BloodLocation = FullHelmet,
+		ClothingItemExtra = Hat_MotorcycleHelmet2,
+        ClothingItemExtraOption = CloseHelmet,
+		BiteDefense = 100,
+		ScratchDefense = 100,
+		ChanceToFall = 20,
+		Insulation = 0,
+		WaterResistance = 0.40,
+        Weight = 1.5,
+		Tooltip = "Protects your Head",
+    }
+	
+	item Hat_Rebreather
+	{
+	Type = Clothing,
+	DisplayName = Rebreather,
+	ClothingItem = Hat_Rebreather,
+	BodyLocation = MaskEyes,
+	Icon = Hat_Rebreather,
+	CanHaveHoles = false,
+	BloodLocation = Head;Neck,
+	Insulation = 1.0,
+	WindResistance = 1.0,
+    ScratchDefense = 50,
+    BiteDefense = 50,
+    }
+	
+	item WeldingMask
+	{
+		Type = Clothing,
+		DisplayName = Welder Mask,
+		ClothingItem = Hat_WeldersMask,
+		BodyLocation = MaskEyes,
+		Icon = WeldingMask,
+		BloodLocation = Head,
+		CanHaveHoles = false,
+		BloodLocation = Head,
+        BiteDefense = 30,
+        ScratchDefense = 50,
+        ChanceToFall = 30,
+        Insulation = 0.25,
+        WindResistance = 0.55,
+	}
+	
+	
+}

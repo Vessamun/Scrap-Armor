@@ -1,0 +1,163 @@
+module Base
+{		
+    item ScrapLegPadL
+	{
+	    Type = Clothing,
+		DisplayName = Left Scrap Leg Pad,
+		ClothingItem = ScrapLegPadL,
+		BodyLocation = ThighLeft,
+		Icon = ScrapLegPads,
+		CanHaveHoles = True,
+		BloodLocation = Trousers,
+		BiteDefense = 35,
+		ScratchDefense = 35,
+		Insulation = 0,
+		WaterResistance = 0,
+        Weight = 0.3,
+		ConditionLowerChanceOneIn = 15,
+        ConditionMax = 15,
+        RemoveOnBroken = false,
+		Tooltip = "Protects your Leg",
+    }
+	
+	item ScrapLegPadR
+	{
+	    Type = Clothing,
+		DisplayName = Right Scrap Leg Pad,
+		ClothingItem = ScrapLegPadR,
+		BodyLocation = ThighRight,
+		Icon = ScrapLegPads,
+		CanHaveHoles = True,
+		BloodLocation = Trousers,
+		BiteDefense = 35,
+		ScratchDefense = 35,
+		Insulation = 0,
+		WaterResistance = 0,
+        Weight = 0.3,
+		ConditionLowerChanceOneIn = 15,
+        ConditionMax = 15,
+        RemoveOnBroken = false,
+		Tooltip = "Protects your Leg",
+    }
+	
+	item ScrapLegPadBoltsL
+	{
+	    Type = Clothing,
+		DisplayName = Left Scrap Leg Pad with Bolts,
+		ClothingItem = ScrapLegPadBoltsL,
+		BodyLocation = ThighLeft,
+		Icon = ScrapLegPadsBolts,
+		CanHaveHoles = True,
+		BloodLocation = Trousers,
+		BiteDefense = 55,
+		ScratchDefense = 55,
+		Insulation = 0,
+		WaterResistance = 0,
+        Weight = 0.3,
+		ConditionLowerChanceOneIn = 15,
+        ConditionMax = 15,
+        RemoveOnBroken = false,
+		Tooltip = "Protects your Leg",
+    }
+	
+	item ScrapLegPadBoltsR
+	{
+	    Type = Clothing,
+		DisplayName = Right Scrap Leg Pad with Bolts,
+		ClothingItem = ScrapLegPadBoltsR,
+		BodyLocation = ThighRight,
+		Icon = ScrapLegPadsBolts,
+		CanHaveHoles = True,
+		BloodLocation = Trousers,
+		BiteDefense = 55,
+		ScratchDefense = 55,
+		Insulation = 0,
+		WaterResistance = 0,
+        Weight = 0.3,
+		ConditionLowerChanceOneIn = 15,
+        ConditionMax = 15,
+        RemoveOnBroken = false,
+		Tooltip = "Protects your Leg",
+    }
+	
+	item ScrapLegPadSign2L
+	{
+	    Type = Clothing,
+		DisplayName = Left Scrap Leg Pad with Sign2,
+		ClothingItem = ScrapLegPadSign2L,
+		BodyLocation = ThighLeft,
+		Icon = ScrapLegPadsSign2,
+		CanHaveHoles = True,
+		BloodLocation = Trousers,
+		BiteDefense = 45,
+		ScratchDefense = 45,
+		Insulation = 0,
+		WaterResistance = 0,
+        Weight = 0.3,
+		ConditionLowerChanceOneIn = 15,
+        ConditionMax = 15,
+        RemoveOnBroken = false,
+		Tooltip = "Protects your Leg",
+    }
+	
+	item ScrapLegPadSign2R
+	{
+	    Type = Clothing,
+		DisplayName = Right Scrap Leg Pad with Sign2,
+		ClothingItem = ScrapLegPadSign2R,
+		BodyLocation = ThighRight,
+		Icon = ScrapLegPadsSign2,
+		CanHaveHoles = True,
+		BloodLocation = Trousers,
+		BiteDefense = 45,
+		ScratchDefense = 45,
+		Insulation = 0,
+		WaterResistance = 0,
+        Weight = 0.3,
+		ConditionLowerChanceOneIn = 15,
+        ConditionMax = 15,
+        RemoveOnBroken = false,
+		Tooltip = "Protects your Leg",
+    }
+	
+	item ScrapLegPadSignL
+	{
+	    Type = Clothing,
+		DisplayName = Left Scrap Leg Pad with Sign,
+		ClothingItem = ScrapLegPadSignL,
+		BodyLocation = ThighLeft,
+		Icon = ScrapLegPadsSign,
+		CanHaveHoles = True,
+		BloodLocation = Trousers,
+		BiteDefense = 45,
+		ScratchDefense = 45,
+		Insulation = 0,
+		WaterResistance = 0,
+        Weight = 0.3,
+		ConditionLowerChanceOneIn = 15,
+        ConditionMax = 15,
+        RemoveOnBroken = false,
+		Tooltip = "Protects your Leg",
+    }
+	
+	item ScrapLegPadSignR
+	{
+	    Type = Clothing,
+		DisplayName = Right Scrap Leg Pad with Sign,
+		ClothingItem = ScrapLegPadSignR,
+		BodyLocation = ThighRight,
+		Icon = ScrapLegPadsSign,
+		CanHaveHoles = True,
+		BloodLocation = Trousers,
+		BiteDefense = 45,
+		ScratchDefense = 45,
+		Insulation = 0,
+		WaterResistance = 0,
+        Weight = 0.3,
+		ConditionLowerChanceOneIn = 15,
+        ConditionMax = 15,
+        RemoveOnBroken = false,
+		Tooltip = "Protects your Leg",
+    }
+	
+}

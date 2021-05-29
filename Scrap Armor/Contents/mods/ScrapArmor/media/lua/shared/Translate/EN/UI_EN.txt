@@ -1,0 +1,6 @@
+UI_EN = {
+
+UI_ClothingType_Pupils = "Eye Lenses",
+UI_ClothingType_Wig = "Wig",
+
+}

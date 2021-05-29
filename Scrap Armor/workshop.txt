@@ -1,0 +1,33 @@
+version=1
+id=2370071924
+title=Scrap Armor
+description=Welcome!
+description=This mod adds some new post apocalyptic / homemade armor!
+description=These can be made with various recources and tools you find troughout the world.
+description=To craft armor check the "Metalworking" tab in your crafting menu!
+description=
+description=[b] UPDATE: [/b]
+description=Added Car Door Shields
+description=
+description=[b] COMING SOON: [/b]
+description=More CONTENT
+description=
+description=[b] KNOWN ISSUES: [/b]
+description=No crafting sound for armor :C
+description=SHIELDS DONT PROTECT if you use SwatPack mod
+description=
+description=Check out my second mod: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2125659488] Scrap Guns
+description= [/url]
+description=
+description=Check out my first mod: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2122265954] Scrap Weapons
+description= [/url]
+description=
+description=Current Content: [url=https://steamcommunity.com/workshop/filedetails/discussion/2370071924/3113644379496352047//] Armor List 	[/url]
+description=
+description= [url=https://www.patreon.com/user?u=49261066&fan_landing=true] Donation Page [/url] I apreciate any support!
+description=
+description=I am open to suggestions, armor ideas and bug reports, i also need help keeping this mod balanced!
+description=
+description=Tags:B41,Textures,Models,Items,Clothing,Realistic
+tags=Build 41;Textures;Models;Items;Clothing;Realistic
+visibility=public
