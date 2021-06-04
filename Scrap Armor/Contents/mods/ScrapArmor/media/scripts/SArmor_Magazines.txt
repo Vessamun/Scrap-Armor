@@ -56,7 +56,7 @@ module SArmor
 		Type = Literature,
 		DisplayName = Post Apocalyptic Knights Vol. ???,
 		Icon = ArmorMag5,
-		TeachedRecipes = Make Plated Scrap Kilt;Make Plated Scrap Vest,
+		TeachedRecipes = Make Left Scrap Leg Pouch;Make Right Scrap Leg Pouch;Make Plated Scrap Kilt;Make Plated Scrap Vest,
 		StaticModel = Magazine,
 		ReplaceOnUse    =   ArmorMag5,
 		Tooltip    =    "Some pages are missing or unreadable",

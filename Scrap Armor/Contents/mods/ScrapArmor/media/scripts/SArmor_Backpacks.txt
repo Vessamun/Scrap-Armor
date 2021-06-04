@@ -17,5 +17,5 @@ module Base
         RunSpeedModifier = 0.97,
         ReplaceInSecondHand = Rucksack_LEFT_HAND holdingbagleft,
         ReplaceInPrimaryHand = Rucksack_RIGHT_HAND holdingbagright,
-    }   
+    }
 }

@@ -257,4 +257,20 @@
 	<guid>c3e87922-9fa6-43e0-aaaa-7a693208b85e</guid>
 	</files>
 	
+	<files>
+	<path>media/clothing/clothingItems/SwordSheath.xml</path>
+	<guid>62ac2dcf-0716-4613-9f47-79d8db88fdb4</guid>
+	</files>
+	
+	<files>
+	<path>media/clothing/clothingItems/ScrapLegPouchL.xml</path>
+	<guid>8be5494c-848b-4918-9888-28adbdecd6e6</guid>
+	</files>
+	
+	<files>
+	<path>media/clothing/clothingItems/ScrapLegPouchR.xml</path>
+	<guid>5429c97d-5ad7-46cc-992c-4fff7f6913be</guid>
+	</files>
+
+	
 </fileGuidTable>

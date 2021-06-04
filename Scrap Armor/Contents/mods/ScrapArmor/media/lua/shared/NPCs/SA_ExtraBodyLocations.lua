@@ -8,6 +8,7 @@ local group = BodyLocations.getGroup("Human")
 
 
 
+group:getOrCreateLocation("SwordSheath")
 group:getOrCreateLocation("TorsoRig")
 group:getOrCreateLocation("TorsoRig2")
 group:getOrCreateLocation("waistbags")
