@@ -12,9 +12,9 @@ module Base
 		cantBeConsolided = TRUE,
 		StaticModel = Weapons/1Handed/ScrapShield,
       		RunAnim	=	Run_Weapon2,
-       		IdleAnim	= Idle_Weapon2,
-		primaryAnimMask = Idle_Weapon2,
-        	secondaryAnimMask = Idle_Weapon2,
+       		IdleAnim	= HoldingTorchRight,
+		primaryAnimMask = HoldingTorchRight,
+        	secondaryAnimMask = HoldingTorchLeft,
 		Tooltip = "Protects your Arms and Torso",
 	}
 	
@@ -28,9 +28,9 @@ module Base
 		cantBeConsolided = TRUE,
 		StaticModel = Weapons/1Handed/WoodenShield,
       		RunAnim	=	Run_Weapon2,
-       		IdleAnim	= Idle_Weapon2,
-		primaryAnimMask = Idle_Weapon2,
-        	secondaryAnimMask = Idle_Weapon2,
+       		IdleAnim	= HoldingTorchRight,
+		primaryAnimMask = HoldingTorchRight,
+        	secondaryAnimMask = HoldingTorchLeft,
 		Tooltip = "Protects your Arms and Torso",
 	}
 	
@@ -44,9 +44,9 @@ module Base
 		cantBeConsolided = TRUE,
 		StaticModel = Weapons/1Handed/ScrapShieldPainted1,
       		RunAnim	=	Run_Weapon2,
-       		IdleAnim	= Idle_Weapon2,
-		primaryAnimMask = Idle_Weapon2,
-        	secondaryAnimMask = Idle_Weapon2,
+       		IdleAnim	= HoldingTorchRight,
+		primaryAnimMask = HoldingTorchRight,
+        	secondaryAnimMask = HoldingTorchLeft,
 		Tooltip = "Protects your Arms and Torso",
 	}
 	
@@ -60,9 +60,9 @@ module Base
 		cantBeConsolided = TRUE,
 		StaticModel = Weapons/1Handed/ScrapShieldPainted2,
       		RunAnim	=	Run_Weapon2,
-       		IdleAnim	= Idle_Weapon2,
-		primaryAnimMask = Idle_Weapon2,
-        	secondaryAnimMask = Idle_Weapon2,
+       		IdleAnim	= HoldingTorchRight,
+		primaryAnimMask = HoldingTorchRight,
+        	secondaryAnimMask = HoldingTorchLeft,
 		Tooltip = "Protects your Arms and Torso",
 	}
 	
@@ -76,9 +76,9 @@ module Base
 		cantBeConsolided = TRUE,
 		StaticModel = Weapons/1Handed/ScrapShieldPainted3,
       		RunAnim	=	Run_Weapon2,
-       		IdleAnim	= Idle_Weapon2,
-		primaryAnimMask = Idle_Weapon2,
-        	secondaryAnimMask = Idle_Weapon2,
+       		IdleAnim	= HoldingTorchRight,
+		primaryAnimMask = HoldingTorchRight,
+        	secondaryAnimMask = HoldingTorchLeft,
 		Tooltip = "Protects your Arms and Torso",
 	}
 	
@@ -92,9 +92,9 @@ module Base
 		cantBeConsolided = TRUE,
 		StaticModel = Weapons/1Handed/CarDoorShield,
       		RunAnim	=	Run_Weapon2,
-       		IdleAnim	= Idle_Weapon2,
-		primaryAnimMask = Idle_Weapon2,
-        	secondaryAnimMask = Idle_Weapon2,
+       		IdleAnim	= HoldingTorchRight,
+		primaryAnimMask = HoldingTorchRight,
+        	secondaryAnimMask = HoldingTorchLeft,
 		Tooltip = "Protects your Arms and Torso",
 	}
 
@@ -108,9 +108,9 @@ module Base
 		cantBeConsolided = TRUE,
 		StaticModel = Weapons/1Handed/CarDoorShield1,
       		RunAnim	=	Run_Weapon2,
-       		IdleAnim	= Idle_Weapon2,
-		primaryAnimMask = Idle_Weapon2,
-        	secondaryAnimMask = Idle_Weapon2,
+       		IdleAnim	= HoldingTorchRight,
+		primaryAnimMask = HoldingTorchRight,
+        	secondaryAnimMask = HoldingTorchLeft,
 		Tooltip = "Protects your Arms and Torso",
 	}
 	
@@ -124,9 +124,9 @@ module Base
 		cantBeConsolided = TRUE,
 		StaticModel = Weapons/1Handed/CarDoorShield2,
       		RunAnim	=	Run_Weapon2,
-       		IdleAnim	= Idle_Weapon2,
-		primaryAnimMask = Idle_Weapon2,
-        	secondaryAnimMask = Idle_Weapon2,
+       		IdleAnim	= HoldingTorchRight,
+		primaryAnimMask = HoldingTorchRight,
+        	secondaryAnimMask = HoldingTorchLeft,
 		Tooltip = "Protects your Arms and Torso",
 	}
 
